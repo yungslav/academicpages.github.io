@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Workers wages have remained stagnant for far too long, and it is absolutely criminal that Virginia Tech doesn't pay campus workers a living wage. Many workers have to commute from other surrounding areas because they can't even live in the town that they work in. Please sign our petition in support of our legislation for student government to pass and the board of visitors to enact!  *PETITION LINK AT BOTTOM*
+Workers wages have remained stagnant for far too long, and it is absolutely criminal that Virginia Tech doesn't pay campus workers a living wage. Many workers have to commute from other surrounding areas because they can't even live in the town that they work in. Please sign our petition in support of our legislation for student government to pass and the board of visitors to enact!
 
-
+https://www.change.org/p/virginia-tech-board-of-visitors-get-virginia-tech-worker-a-15-hr-minimum-wage?recruiter=864344992&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition
