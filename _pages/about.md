@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "VT YDSA"
+title: "VT YDSA is currently fighting for a campus living wage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Virginia Tech YDSA
+Workers wages have remained stagnant for far too long, and it is absolutely criminal that Virginia Tech doesn't pay campus workers a living wage. Many workers have to commute from other surrounding areas because they can't even live in the town that they work in. Please sign our petition in support of our legislation for student government to pass and the board of visitors to enact!  *PETITION LINK AT BOTTOM*
+
 
